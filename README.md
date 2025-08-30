@@ -143,7 +143,7 @@ _The graphical user interface provided by zkDatabase offers an intuitive and use
 
 ## Specification
 
-The specification of zkDatabase was moved [here](https://docs.orochi.network/zkdatabase/chapter.html).
+The specification of zkDatabase was moved [here](https://docs.orochi.network/category/zkdatabase).
 
 ## Installation
 
